@@ -57,7 +57,7 @@ elementos =  [10, 6, 14, 5, 8, 11, 18]
             
 arvore = ArvoreBinaria()
 
-print("Elementos em ordem original: ", elementos,)
+print("Elementos em ordem original: ", elementos)
 
 for elemento in elementos:
     arvore.inserirElementoNaArvore(elemento)
